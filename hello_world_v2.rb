@@ -1,2 +1,6 @@
 #!/usr/bin/ruby
-print "Hello World! Ruby rocks!\n"
+=begin
+This is a comment
+It works
+=end
+print "Hello World! Ruby rocks!\n" # prints message
