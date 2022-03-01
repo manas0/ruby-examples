@@ -1,4 +1,4 @@
-score = 40
+score = 39.1
 
 result = case score
    when 0..39 then "Fail"
