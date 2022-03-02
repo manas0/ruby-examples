@@ -1,3 +1,5 @@
+#require 'BankAccount' 
+#The above line(uncommented) will be required when super class is declared in BankAccount.rb file
 class BankAccount
     @id = "h123" #There is no way to acces this outside the class
 
