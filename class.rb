@@ -1,5 +1,10 @@
 class BankAccount
-    @id = "h123"
+    @id = "h123" #There is no way to acces this outside the class
+
+    def interest_rate
+        @@interest_rate = 0.2
+    end
+    
     def accountNumber
         @accountNymber
     end
