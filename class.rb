@@ -1,7 +1,7 @@
 #require 'BankAccount' 
 #The above line(uncommented) will be required when super class is declared in BankAccount.rb file
 class BankAccount
-    @id = "h123" #There is no way to acces this outside the class
+    @id = "h123" #There is no way to acces this outside the class. Is there?
 
     def interest_rate
         @@interest_rate = 0.2
