@@ -25,7 +25,7 @@ puts test
 
 text = <<DOC
 Hello
-    Hi
+    'Hi'
         Hi "you"
 DOC
 
