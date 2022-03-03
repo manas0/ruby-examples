@@ -29,5 +29,8 @@ Hello
         Hi "you"
 DOC
 
-
+print text
 puts text
+puts s1.empty?
+puts text.length
+puts text.size
