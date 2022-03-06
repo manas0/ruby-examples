@@ -19,7 +19,7 @@ s1.insert 6,"Hi"
 puts s1
 
 puts s1.chop
-#print s1
+print s1
 print s1.chomp
 
 s1.reverse!
